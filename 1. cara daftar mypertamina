@@ -1,0 +1,72 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+    
+    
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "playstore",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47eK7yr-cFXe4uXmu-eP1Sm71pI91UZlRYdKgQ6o67Xo2nCAwbbBdX37SBup6DuNOcMHlZgizr2KiXXoz5fuGcSvqjLpegG0_3hmB9DR8rmPR9IH9_b2v13FclsVqKqaqtnBTULoz8BWOYcQWMVT--ERZycEmIqi3eU7sGcsk5bBggFjEz8itJ3LW/s512/logo1.png",
+      "link": "https://play.google.com/store/apps/details?id="
+    }
+    
+    
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj47eK7yr-cFXe4uXmu-eP1Sm71pI91UZlRYdKgQ6o67Xo2nCAwbbBdX37SBup6DuNOcMHlZgizr2KiXXoz5fuGcSvqjLpegG0_3hmB9DR8rmPR9IH9_b2v13FclsVqKqaqtnBTULoz8BWOYcQWMVT--ERZycEmIqi3eU7sGcsk5bBggFjEz8itJ3LW/s512/logo1.png"
+    }
+    
+    
+    
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "cara mendaftar peduli lindungi",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Di beberapa ruang publik seperti pusat perbelanjaan, tempat makan, hingga lokasi wisata,",
+      "link": "https://caradaftarpedulilindungi.blogspot.com/2022/06/cara-mendaftar-peduli-lindungi.html"
+    },
+   
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
