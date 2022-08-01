@@ -4,9 +4,9 @@
     "stranger"
   ],
   "init_jumlah_photo": 100,
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "admob_banner_id": "ca-app-pub-9139068434218978/2753857863",
+  "admob_interstitial_id": "ca-app-pub-9139068434218978/4996877822",
+  "admob_native_id": "ca-app-pub-9139068434218978/1053747472",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "",
@@ -19,7 +19,7 @@
   "unity_id": "",
   "unity_banner": "",
   "unity_interstitial": "",
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 4,
   "list_ads": [
     "ADMOB",
     "UNITY",
