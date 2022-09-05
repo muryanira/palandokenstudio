@@ -4,9 +4,9 @@
     "sponge"
   ],
   "init_jumlah_photo": 100,
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-9139068434218978/8468601395",
-  "admob_native_id": "ca-app-pub-9139068434218978/3799546887",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "ca-app-pub-7659212157573907/6189865918",
+  "admob_native_id": "ca-app-pub-7659212157573907/8591833821",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "",
